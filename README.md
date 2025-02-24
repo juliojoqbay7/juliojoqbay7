@@ -1,4 +1,4 @@
-# JULIO JOQBAY - README em construção!
+# JULIO JOQBAY - README em construção
 
 ![Sua Foto](/public/julio-perfil.png)
 
