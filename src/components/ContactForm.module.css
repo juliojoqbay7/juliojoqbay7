@@ -1,0 +1,31 @@
+
+.form {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;  /*Example / Exemplo*/
+    margin: 0 auto;
+}
+
+.form div {
+    margin-bottom: 1rem;
+}
+
+.form label {
+    display: block;
+    margin-bottom: 0.5rem;
+}
+.form input,
+.form textarea {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc; /*Example / Exemplo*/
+    border-radius: 4px;  /*Example / Exemplo*/
+}
+
+.success {
+    color: green;
+}
+
+.error {
+    color: red;
+}
